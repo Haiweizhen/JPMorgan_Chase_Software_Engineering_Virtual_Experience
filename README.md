@@ -1,9 +1,18 @@
 ## JPMorgan Chase Software Engineering Virtual Internship Experience
 This repository inludes the my works for the various tasks in the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
-I have completed practical task modules in:<br>
+I have completed the practical task modules in:<br>
 ✅ Interface with a Stock Price Data Feed.<br>
 ✅ Use JPMorgan Chase frameworks and tools.<br>
 ✅ Display data visually for traders (Trader's Dashboard)<br>
+
+## Take Away
+Throughout the virtual experience, I am familiar with Perspective which is an interactive visualization component for large, real-time datasets by J.P. Morgan.
+It gives a glimpse of various things required to develop a data analytics application.
+• Establishing Data Feed (Python Testing, Git and Spinning up a local server along with Socket Connections)
+• Bit of Front End Web Development using React and TypeScript  (Plotting Graph)
+• Data visualization (Making them more interactive with Perspective).
+
+
 
 ## Website Link:
 [JPMorgan Chase Software Engineering Virtual Internship Experience](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
