@@ -1,5 +1,5 @@
 ## JPMorgan Chase Software Engineering Virtual Internship Experience
-This repository inludes the submitted patch files of the various tasks assigned by JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
+This repository inludes the my works for the various tasks in the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
 I have completed practical task modules in:<br>
 ✅ Interface with a Stock Price Data Feed.<br>
 ✅ Use JPMorgan Chase frameworks and tools.<br>
