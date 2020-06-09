@@ -1,8 +1,8 @@
 ## JPMorgan Chase Software Engineering Virtual Internship Experience
 This repository inludes the my works for the various tasks in the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
 I have completed the practical task modules in:<br>
-✅ Interface with a Stock Price Data Feed.<br>
-✅ Use JPMorgan Chase frameworks and tools.<br>
+✅ Interface with a Stock Price Data Feed<br>
+✅ Use JPMorgan Chase frameworks and tools<br>
 ✅ Display data visually for traders (Trader's Dashboard)<br>
 
 ## Take Away
