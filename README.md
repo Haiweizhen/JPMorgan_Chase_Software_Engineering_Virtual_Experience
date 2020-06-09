@@ -6,11 +6,11 @@ I have completed the practical task modules in:<br>
 ✅ Display data visually for traders (Trader's Dashboard)<br>
 
 ## Take Away
-Throughout the virtual experience, I am familiar with Perspective which is an interactive visualization component for large, real-time datasets by J.P. Morgan.
-It gives a glimpse of various things required to develop a data analytics application.
-• Establishing Data Feed (Python Testing, Git and Spinning up a local server along with Socket Connections)
-• Bit of Front End Web Development using React and TypeScript  (Plotting Graph)
-• Data visualization (Making them more interactive with Perspective).
+Throughout the virtual experience, I am familiar with Perspective which is an interactive visualization component for large, real-time datasets by J.P. Morgan.<br>
+It gives a glimpse of various things required to develop a data analytics application.<br>
+• Establishing Data Feed (Python Testing, Git and Spinning up a local server along with Socket Connections)<br>
+• Bit of Front End Web Development using React and TypeScript  (Plotting Graph)<br>
+• Data visualization (Making them more interactive with Perspective)<br>
 
 
 
