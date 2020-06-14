@@ -17,3 +17,6 @@ Throughout the virtual experience, I am familiar with Perspective which is an in
 ## My Certificate of Completion:
 
 ![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/completion_certificate_imag.jpg)
+
+## final project demo
+<img src='https://github.com/Haiweizhen/Fasce_mask_storage_project/blob/master/other/demogif2.gif' />
