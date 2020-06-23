@@ -1,3 +1,9 @@
+## Info Link:
+[JPMorgan Chase Software Engineering Virtual Internship Experience](https://careers.jpmorgan.com/us/en/students/campaign/virtual-internship)
+![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
+
+
+
 ## JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
 
 My works for the various tasks during the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
@@ -12,10 +18,7 @@ Throughout the virtual experience, I am familiar with Perspective which is an in
 • Bit of Front End Web Development using React and TypeScript  (Plotting Graph)<br>
 • Data visualization (Making them more interactive with Perspective)<br>
 
-## Info Link:
-[JPMorgan Chase Software Engineering Virtual Internship Experience](https://careers.jpmorgan.com/us/en/students/campaign/virtual-internship)
-![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
-##
+
 ##
 ## My Certificate of Completion:
 ![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/completion_certificate_imag.jpg)
