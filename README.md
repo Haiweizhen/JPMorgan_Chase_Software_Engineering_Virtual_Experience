@@ -1,11 +1,8 @@
-## Info Link:
+## JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
 [JPMorgan Chase Software Engineering Virtual Internship Experience](https://careers.jpmorgan.com/us/en/students/campaign/virtual-internship)
 ![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
 
-
-
-## JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
-
+##
 My works for the various tasks during the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
 I have completed the practical task modules in:<br>
 ✅ Interface with a Stock Price Data Feed<br>
