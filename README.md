@@ -1,4 +1,5 @@
 ## JPMorgan Chase Software Engineering Virtual Internship Experience
+![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
 My works for the various tasks during the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
 I have completed the practical task modules in:<br>
 ✅ Interface with a Stock Price Data Feed<br>
@@ -13,7 +14,7 @@ Throughout the virtual experience, I am familiar with Perspective which is an in
 
 ## Website Link:
 [JPMorgan Chase Software Engineering Virtual Internship Experience](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
-![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
+![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/intro.jpg)
 ## My Certificate of Completion:
 
 ![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/completion_certificate_imag.jpg)
