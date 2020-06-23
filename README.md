@@ -1,4 +1,4 @@
-## JPMorgan Chase &amp; Co. Software Engineering Virtual Internship Experience
+## JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
 
 My works for the various tasks during the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
 I have completed the practical task modules in:<br>
