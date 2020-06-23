@@ -1,4 +1,4 @@
-## JPMorgan Chase Software Engineering Virtual Internship Experience
+## JPMorgan Chase &amp; Co. Software Engineering Virtual Internship Experience
 ![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
 My works for the various tasks during the JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.<br>
 I have completed the practical task modules in:<br>
