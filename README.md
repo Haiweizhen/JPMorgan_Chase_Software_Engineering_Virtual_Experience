@@ -13,7 +13,7 @@ Throughout the virtual experience, I am familiar with Perspective which is an in
 
 ## Website Link:
 [JPMorgan Chase Software Engineering Virtual Internship Experience](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
-![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/intro.jpg)
+![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/jpinto.jpg)
 ## My Certificate of Completion:
 
 ![](https://github.com/Haiweizhen/JPMorgan_Chase_Software_Engineering_Virtual_Internship_Experience/blob/master/completion_certificate_imag.jpg)
